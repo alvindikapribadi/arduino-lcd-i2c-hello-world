@@ -75,6 +75,7 @@ You can scan I2C address using I2C Scanner example.
 The program initializes the LCD, turns on the backlight, and prints:
 
 Hello, World!
+
 @AlvinPribadi
 
 on the LCD screen.
