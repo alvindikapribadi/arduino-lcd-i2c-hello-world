@@ -30,6 +30,24 @@ For Arduino Mega:
 
 ---
 
+## 📷 Wiring Diagram
+
+![Wiring Diagram](diagram.png)
+
+> Make sure your wiring matches the diagram above before uploading the code.
+
+---
+
+## 💻 Arduino Code
+
+You can download the Arduino sketch here:
+
+[Download Arduino Code](Arduino_LCD_I2C_Hello_World.ino)
+
+Or open the `.ino` file directly inside this repository.
+
+---
+
 ## 📚 Install Library
 
 1. Open Arduino IDE
@@ -57,7 +75,7 @@ You can scan I2C address using I2C Scanner example.
 The program initializes the LCD, turns on the backlight, and prints:
 
 Hello, World!
-Liga Pribadi
+@AlvinPribadi
 
 on the LCD screen.
 
