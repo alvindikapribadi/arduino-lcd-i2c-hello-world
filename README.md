@@ -85,7 +85,8 @@ on the LCD screen.
 ## 📺 Video Tutorial
 
 Watch the full tutorial here:  
-👉 https://youtu.be/_GeKduN3HCo
+
+[![Watch the video](https://img.youtube.com/vi/_GeKduN3HCo/0.jpg)](https://youtu.be/_GeKduN3HCo)
 
 ---
 
